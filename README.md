@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Ricardo Antonelli 👋
 
-<!--
-**ricardoantonelli/ricardoantonelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me
+I'm a Systems Analyst, and I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/).
 
-Here are some ideas to get you started:
+#### Current stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning: 
+- Backend: Node.js
+- Frontend: React,js, HTML5, CSS3, Javascript
+- Layout Design: Figma
+- Version code control: Git & Github
+- Tools: VsCode
+
+#### 🔗 Contact
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-antonelli/)
