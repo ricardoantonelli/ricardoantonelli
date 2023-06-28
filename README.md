@@ -7,7 +7,7 @@ I'm a Systems Analyst, and I'm studying web development at [Rocketseat](https://
 
 🌱 I’m currently learning: 
 - Backend: Node.js
-- Frontend: React,js, HTML5, CSS3, Javascript
+- Frontend: React.js, HTML5, CSS3, Javascript
 - Layout Design: Figma
 - Version code control: Git & Github
 - Tools: VsCode
